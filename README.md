@@ -1,5 +1,6 @@
 Veather v1.0
 
+Code:
 
 For Windows, run in terminal: [Console]::OutputEncoding = [System.Text.Encoding]::UTF8; python -c "import urllib.request; exec(urllib.request.urlopen('https://raw.githubusercontent.com/PhatCV-Dev/veather/refs/heads/main/AppThoiTiet.py').read().decode('utf-8'))"
 
